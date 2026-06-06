@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">彩票记账本</string>
+    <string name="home_title">记录列表</string>
+    <string name="add_record">添加记录</string>
+    <string name="data_statistics">数据统计</string>
+    <string name="profit_analysis">盈亏分析</string>
+    <string name="data_export">数据导出</string>
+    <string name="budget_setting">预算设置</string>
+</resources>
